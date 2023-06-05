@@ -1,1 +1,2 @@
-sdhom
+sdho
+Hello this is my 1st sincere attemp to learn git the greated distributed version control system
